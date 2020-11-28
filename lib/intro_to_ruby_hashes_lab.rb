@@ -4,12 +4,12 @@ def new_hash{
 end
 
 def my_hash{
-  shoes: "vans"
+  shoes: "vans",
 }
 end
 
 def pioneer{
-  name: "Grace Hopper"
+  name: "Grace Hopper",
 }
 end
 
