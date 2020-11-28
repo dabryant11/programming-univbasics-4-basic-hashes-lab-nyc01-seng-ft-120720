@@ -4,12 +4,14 @@ def new_hash
 }
 end
 
-def my_hash{
+def my_hash
+  {
   shoes: "vans",
 }
 end
 
-def pioneer{
+def pioneer
+  {
   name: "Grace Hopper",
 }
 end
